@@ -1,8 +1,8 @@
 package com.example.demo.dto;
 
 
-import com.yu.reggie.entity.OrderDetail;
-import com.yu.reggie.entity.Orders;
+import com.example.demo.entity.OrderDetail;
+import com.example.demo.entity.Orders;
 import lombok.Data;
 
 import java.util.List;

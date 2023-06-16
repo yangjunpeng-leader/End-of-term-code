@@ -1,10 +1,10 @@
-package com.example.demo.serve.impl;
+package com.example.demo.service.impl;
 
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import com.example.demo.entity.ShoppingCart;
 
 import com.example.demo.mapper.ShoppingCartMapper;
-import com.example.demo.serve.ShoppingCartService;
+import com.example.demo.service.ShoppingCartService;
 import org.springframework.stereotype.Service;
 
 @Service

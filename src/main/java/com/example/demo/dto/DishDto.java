@@ -1,8 +1,8 @@
 package com.example.demo.dto;
 
 
-import com.yu.reggie.entity.Dish;
-import com.yu.reggie.entity.DishFlavor;
+import com.example.demo.entity.Dish;
+import com.example.demo.entity.DishFlavor;
 import lombok.Data;
 import java.util.ArrayList;
 import java.util.List;

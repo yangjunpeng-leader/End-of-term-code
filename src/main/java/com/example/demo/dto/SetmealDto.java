@@ -1,7 +1,7 @@
 package com.example.demo.dto;
 
-import com.yu.reggie.entity.Setmeal;
-import com.yu.reggie.entity.SetmealDish;
+import com.example.demo.entity.Setmeal;
+import com.example.demo.entity.SetmealDish;
 import lombok.Data;
 import java.util.List;
 

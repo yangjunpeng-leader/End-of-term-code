@@ -4,7 +4,7 @@ import com.baomidou.mybatisplus.core.conditions.query.LambdaQueryWrapper;
 import com.example.demo.common.BaseContext;
 import com.example.demo.common.R;
 import com.example.demo.entity.ShoppingCart;
-import com.example.demo.serve.ShoppingCartService;
+import com.example.demo.service.ShoppingCartService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;

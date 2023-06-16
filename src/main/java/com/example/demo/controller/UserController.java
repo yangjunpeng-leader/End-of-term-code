@@ -1,11 +1,11 @@
 package com.example.demo.controller;
 
 import com.baomidou.mybatisplus.core.conditions.query.LambdaQueryWrapper;
-import com.yu.reggie.common.R;
-import com.yu.reggie.entity.User;
-import com.yu.reggie.service.UserService;
-import com.yu.reggie.utils.SMSUtils;
-import com.yu.reggie.utils.ValidateCodeUtils;
+import com.example.demo.common.R;
+import com.example.demo.entity.User;
+import com.example.demo.service.UserService;
+import com.example.demo.utils.SMSUtils;
+import com.example.demo.utils.ValidateCodeUtils;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.commons.lang.StringUtils;
 import org.springframework.beans.factory.annotation.Autowired;
