@@ -5,7 +5,7 @@ import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import com.example.demo.common.CustomException;
 import com.yu.reggie.entity.Category;
 import com.yu.reggie.entity.Dish;
-import com.yu.reggie.entity.Setmeal;
+import com.example.demo.entity.Setmeal;
 import com.example.demo.mapper.CategoryMapper;
 import com.example.demo.service.CategoryService;
 import com.example.demo.service.DishService;
