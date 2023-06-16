@@ -2,14 +2,14 @@ package com.example.demo.service.impl;
 
 import com.baomidou.mybatisplus.core.conditions.query.LambdaQueryWrapper;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
-import com.yu.reggie.common.CustomException;
+import com.example.demo.common.CustomException;
 import com.yu.reggie.entity.Category;
 import com.yu.reggie.entity.Dish;
 import com.yu.reggie.entity.Setmeal;
-import com.yu.reggie.mapper.CategoryMapper;
-import com.yu.reggie.service.CategoryService;
-import com.yu.reggie.service.DishService;
-import com.yu.reggie.service.SetmealService;
+import com.example.demo.mapper.CategoryMapper;
+import com.example.demo.service.CategoryService;
+import com.example.demo.service.DishService;
+import com.example.demo.service.SetmealService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

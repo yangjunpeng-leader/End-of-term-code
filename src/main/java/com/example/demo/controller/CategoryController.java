@@ -2,9 +2,9 @@ package com.example.demo.controller;
 
 import com.baomidou.mybatisplus.core.conditions.query.LambdaQueryWrapper;
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
-import com.yu.reggie.common.R;
+import com.example.demo.common.R;
 import com.yu.reggie.entity.Category;
-import com.yu.reggie.service.CategoryService;
+import com.example.demo.service.CategoryService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
