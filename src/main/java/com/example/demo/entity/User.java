@@ -1,4 +1,4 @@
-package com.yu.reggie.entity;
+package com.example.demo.entity;
 
 import lombok.Data;
 import java.time.LocalDateTime;

@@ -1,4 +1,4 @@
-package com.yu.reggie.entity;
+package com.example.demo.entity;
 
 import com.baomidou.mybatisplus.annotation.FieldFill;
 import com.baomidou.mybatisplus.annotation.IdType;
