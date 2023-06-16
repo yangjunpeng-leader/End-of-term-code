@@ -1,8 +1,8 @@
 package com.example.demo.filter;
 
 import com.alibaba.fastjson.JSON;
-import com.yu.reggie.common.BaseContext;
-import com.yu.reggie.common.R;
+import com.example.demo.common.BaseContext;
+import com.example.demo.common.R;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Component;
 import org.springframework.util.AntPathMatcher;
