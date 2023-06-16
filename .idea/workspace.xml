@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e14aa12c-8f05-4db0-b01a-72e11008b538" name="更改" comment="fugp提交代码">
+      <change afterPath="$PROJECT_DIR$/reggie/src/main/java/com/yu/reggie/controller/DishController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie/src/main/java/com/yu/reggie/mapper/DishMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie/src/main/java/com/yu/reggie/service/CategoryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie/src/main/java/com/yu/reggie/service/DishFlavorService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie/src/main/java/com/yu/reggie/service/DishService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie/src/main/java/com/yu/reggie/service/impl/DishFlavorServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie/src/main/java/com/yu/reggie/service/impl/DishServiceImpl.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\maven\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../maven/apache-maven-3.8.8" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="E:\maven\apache-maven-3.8.8\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2RHTt6t5LC9Q9nafLvgyHDEOqGr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/测试/瑞吉/reggie/src/main/java/com/yu/reggie/service/impl",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "spring.configuration.checksum": "3acf5c7b740d6e2538f3a7b88cf069b3",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\测试\瑞吉\reggie\src\main\java\com\yu\reggie\service\impl" />
+      <recent name="E:\测试\瑞吉\reggie\src\main\java\com\yu\reggie\service" />
+      <recent name="E:\测试\瑞吉\reggie\src\main\java\com\yu\reggie\mapper" />
+      <recent name="E:\测试\瑞吉\reggie\src\main\java\com\yu\reggie\controller" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ReggieApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="reggie" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yu.reggie.ReggieApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="e14aa12c-8f05-4db0-b01a-72e11008b538" name="更改" comment="" />
+      <created>1686906218985</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686906218985</updated>
+      <workItem from="1686906220189" duration="153000" />
+      <workItem from="1686906386941" duration="488000" />
+      <workItem from="1686906887762" duration="264000" />
+      <workItem from="1686907171169" duration="687000" />
+    </task>
+    <task id="LOCAL-00001" summary="fugp提交代码">
+      <created>1686907095957</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1686907095957</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="fugaopeng" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fugp提交代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="fugp提交代码" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
