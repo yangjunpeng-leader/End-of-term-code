@@ -27,7 +27,7 @@ public class UserController {
     private UserService userService;
 
     /**
-     * 发送手机短信验证码
+     * 梁其雾发送手机短信验证码
      * @param user
      * @return
      */
